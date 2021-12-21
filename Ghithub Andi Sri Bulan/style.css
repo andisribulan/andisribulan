@@ -1,0 +1,41 @@
+
+*{
+    margin: auto;
+    align-content: center;
+}
+body{
+    margin-top: 100px;
+    background-color: #f7f5f5ef;
+}
+table, tr,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.head{
+    width: 40px;
+    height: 40px;
+    text-align: center;
+}
+
+.hoving-1: :hover{
+    cursor:default;
+    background-color: #00aa55
+}
+
+.hoving-2:hover{
+    cursor: default;
+    background-color: rgb(247, 194, 211);
+
+}
+
+.head-color{
+    background-color: #007c3e;
+    color: white;
+}
+.no{
+    width: 40px;
+    text-align: center;
+}
+
+.nama{
